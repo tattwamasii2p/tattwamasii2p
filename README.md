@@ -158,9 +158,8 @@ Engineering:
 <li>Linux systems, networking & infrastructure</li>
 <li>Cryptocurrency wallets, exchanges, and Web3 platforms</li>
 <li>C / C++ / Java / Kotlin / Python / TypeScript / JavaScript</li>
-<li>Compiler compilers, toolchains, developer infrastructure & language tooling</li>
+<li>Compiler Compilers, parsers, toolchains & language tooling</li>
 </ul>
-<hr>
 
 I specialize in systems where:
 
