@@ -1,33 +1,169 @@
-<dl><dt><a href=https://github.com/PurpleI2P/i2pd-android>i2pd-android</a> <a href=https://github.com/PurpleI2P/i2pd-qt>i2pd-qt</a></dt>
-<dd>I authored these two apps, 135k+ downloads total</dd>
+<h1>Senior Blockchain & Distributed Systems Engineer</h1>
 
-<dt><a href=https://github.com/GOSTSec/gostcoin>gostcoin</a></dt>
-<dd>I authored a GUI Qt/C++ wallet for this</dd>
+I build, debug, and stabilize complex distributed systems, crypto infrastructure,
+privacy-oriented networking, and high-load backend platforms.
 
-<dt>TranooSwap</dt>
-<dd>I authored and deployed an inter-chain swap/exchange/bridge for 80+ chains, 1000+ tokens/coins. Proprietary, not opensource.</dd>
+My engineering focus:
 
-<dt><a href=https://github.com/SoulNFT/SoulNFT>SoulNFT</a></dt>
-<dd>I built a foundational layer for a new Polygon/Ethereum-compatible NFT marketplace.</dd>
+<ul>
+  <li>Blockchain & crypto infrastructure</li>
+  <li>Distributed systems reliability</li>
+  <li>Backend architecture and production debugging</li>
+  <li>Privacy-oriented networking</li>
+  <li>High-load systems</li>
+</ul>
 
-<dt><a href=https://github.com/tattwamasii2p/ostagramjs>ostagramjs</a></dt>
-<dd>Neural networks style transfer component - Ported from obsolete python2.7 - a NFT generation plugin for an NFT marketplace</dd>
+<hr>
 
-<dt><a href=https://github.com/i2pchat/i2pchat>i2pchat</a></dt>
-<dd>I hardened this by removing suspicious servers from architecture</dd>
+<h2>🚀 Shipped Systems & Engineering Impact</h2>
 
-<!--
-## Hi there 👋
-**tattwamasii2p/tattwamasii2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<dl>
 
-Here are some ideas to get you started:
+<dt>
+<strong>
+<a href="https://github.com/PurpleI2P/i2pd-android">i2pd-android</a>
++
+<a href="https://github.com/PurpleI2P/i2pd-qt">i2pd-qt</a>
+</strong>
+</dt>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<dd>
+Authored Android and Qt applications for the i2pd privacy networking ecosystem.
+<br><br>
+Impact:
+<br>
+<strong>135k+ downloads combined</strong>
+<br><br>
+Engineering:
+<ul>
+<li>C++</li>
+<li>Qt</li>
+<li>Android NDK</li>
+<li>JNI integration</li>
+<li>Distributed privacy networking</li>
+</ul>
+</dd>
+
+
+<dt>
+<strong>TranooSwap</strong>
+</dt>
+
+<dd>
+Author and developer of a proprietary inter-chain crypto swap/exchange application.
+<br><br>
+Impact:
+<ul>
+<li>80+ blockchain networks</li>
+<li>1000+ tokens and coins</li>
+</ul>
+<br>
+Engineering:
+<ul>
+<li>Multi-chain integration</li>
+<li>Web3 infrastructure</li>
+<li>Crypto exchange workflows</li>
+<li>Production deployment</li>
+</ul>
+
+(Proprietary system, not open source)
+</dd>
+<dt>
+<strong>
+<a href="https://github.com/GOSTSec/gostcoin">GOSTCoin</a>
+</strong>
+</dt>
+
+<dd>
+Authored a C++/Qt cryptocurrency wallet GUI.
+<br><br>
+Engineering:
+<ul>
+<li>Cryptocurrency software</li>
+<li>Qt desktop application architecture</li>
+<li>Wallet user interface</li>
+</ul>
+</dd>
+
+
+
+
+<dt>
+<strong>
+<a href="https://github.com/SoulNFT/SoulNFT">SoulNFT</a>
+</strong>
+</dt>
+
+<dd>
+Built foundational components for a Polygon/Ethereum-compatible NFT marketplace.
+<br><br>
+Engineering:
+<ul>
+<li>Web3 application architecture</li>
+<li>NFT marketplace infrastructure</li>
+<li>Blockchain integration layer</li>
+</ul>
+</dd>
+
+
+<dt>
+<strong>
+<a href="https://github.com/tattwamasii2p/ostagramjs">ostagramjs</a>
+</strong>
+</dt>
+
+<dd>
+Developed a neural style transfer component for NFT generation workflows.
+
+Engineering:
+<ul>
+<li>Neural network based image transformation</li>
+<li>Migration from obsolete Python 2.7 tooling</li>
+<li>AI + Web3 product integration</li>
+</ul>
+</dd>
+
+
+<dt>
+<strong>
+<a href="https://github.com/i2pchat/i2pchat">i2pchat</a>
+</strong>
+</dt>
+
+<dd>
+Hardened an I2P-based messaging application architecture.
+<br><br>
+Engineering:
+<ul>
+<li>Security review</li>
+<li>Architecture hardening</li>
+<li>Removal of unsafe server dependencies</li>
+</ul>
+</dd>
+
+</dl>
+
+<hr>
+
+<h2>🔧 Core Engineering Domains</h2>
+
+<ul>
+<li>Distributed systems</li>
+<li>Blockchain infrastructure</li>
+<li>Crypto applications</li>
+<li>Backend reliability</li>
+<li>Linux systems</li>
+<li>C++ / Java / Kotlin</li>
+<li>Networking and high-load architectures</li>
+</ul>
+
+<hr>
+
+I specialize in systems where:
+
+<ul>
+<li>architecture is complex;</li>
+<li>failures are difficult to reproduce;</li>
+<li>root causes are hidden across multiple layers;</li>
+<li>standard debugging approaches fail.</li>
+</ul>
