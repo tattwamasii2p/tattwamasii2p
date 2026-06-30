@@ -152,15 +152,14 @@ Engineering:
 <h2>🔧 Core Engineering Domains</h2>
 
 <ul>
-<li>Distributed systems</li>
-<li>Blockchain infrastructure</li>
-<li>Crypto applications</li>
-<li>Backend reliability</li>
-<li>Linux systems</li>
-<li>C / C++ / Java / Kotlin / Python / Typescript / Javascript / Generalist / Compiler Compilers / Toolchains</li>
-<li>Networking and high-load architectures</li>
+<li>Distributed systems & production reliability</li>
+<li>Blockchain infrastructure & crypto applications</li>
+<li>Backend systems & high-load architectures</li>
+<li>Linux systems, networking & infrastructure</li>
+<li>Cryptocurrency wallets, exchanges, and Web3 platforms</li>
+<li>C / C++ / Java / Kotlin / Python / TypeScript / JavaScript</li>
+<li>Compiler compilers, toolchains, developer infrastructure & language tooling</li>
 </ul>
-
 <hr>
 
 I specialize in systems where:
