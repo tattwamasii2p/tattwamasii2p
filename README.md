@@ -11,7 +11,7 @@
 <dd>I built a foundational layer for a new Polygon/Ethereum-compatible NFT marketplace.</dd>
 
 <dt><a href=https://github.com/tattwamasii2p/ostagramjs>ostagramjs</a></dt>
-<dd>Ported from obsolete python2.7 - a NFT generation plugin for an NFT marketplace</dd>
+<dd>Neural networks style transfer component - Ported from obsolete python2.7 - a NFT generation plugin for an NFT marketplace</dd>
 
 <dt><a href=https://github.com/i2pchat/i2pchat>i2pchat</a></dt>
 <dd>I hardened this by removing suspicious servers from architecture</dd>
