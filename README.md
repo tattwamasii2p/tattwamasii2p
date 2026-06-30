@@ -157,7 +157,7 @@ Engineering:
 <li>Crypto applications</li>
 <li>Backend reliability</li>
 <li>Linux systems</li>
-<li>C / C++ / Java / Kotlin / Python</li>
+<li>C / C++ / Java / Kotlin / Python / Typescript / Javascript</li>
 <li>Networking and high-load architectures</li>
 </ul>
 
