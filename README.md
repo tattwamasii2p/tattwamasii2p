@@ -46,7 +46,7 @@ Engineering:
 
 
 <dt>
-<strong>TranooSwap</strong>
+<strong><a href=https://github.com/tranoo/exchange-public>TranooSwap</a></strong>
 </dt>
 
 <dd>
