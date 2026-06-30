@@ -75,18 +75,22 @@ Engineering:
 </dt>
 
 <dd>
-Authored a C++/Qt cryptocurrency wallet GUI.
+Creator of the C++/Qt GUI wallet for the GostCoin cryptocurrency ecosystem.
+<br><br>
+Impact:
+<br>
+<strong>5.5k+ downloads</strong>
 <br><br>
 Engineering:
 <ul>
-<li>Cryptocurrency software</li>
-<li>Qt desktop application architecture</li>
-<li>Wallet user interface</li>
+<li>C++</li>
+<li>Qt desktop application development</li>
+<li>Cryptocurrency wallet software</li>
+<li>Blockchain application tooling</li>
 </ul>
+
+Built a production cryptocurrency wallet interface connecting users with blockchain functionality through a native desktop application.
 </dd>
-
-
-
 
 <dt>
 <strong>
