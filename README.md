@@ -118,7 +118,7 @@ Engineering:
 
 <dd>
 Developed a neural style transfer component for NFT generation workflows.
-
+<br><br>
 Engineering:
 <ul>
 <li>Neural network based image transformation</li>
