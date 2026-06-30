@@ -1,4 +1,4 @@
-<dl><dt><a href=https://github.com/PurpleI2P/i2pd-android>i2pd-android</a> <a href=https://github.com/PurpleI2P/i2pd-qt>i2pd-qt</a></ht>
+<dl><dt><a href=https://github.com/PurpleI2P/i2pd-android>i2pd-android</a> <a href=https://github.com/PurpleI2P/i2pd-qt>i2pd-qt</a></dt>
 <dd>I authored these two apps, 135k+ downloads total</dd>
 
 <dt><a href=https://github.com/GOSTSec/gostcoin>gostcoin</a></dt>
