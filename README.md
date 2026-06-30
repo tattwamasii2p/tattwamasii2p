@@ -75,7 +75,7 @@ Engineering:
 </dt>
 
 <dd>
-Creator of the C++/Qt GUI wallet for the GostCoin cryptocurrency ecosystem.
+Creator of the C++/Qt GUI wallet for the GOSTCoin cryptocurrency ecosystem.
 <br><br>
 Impact:
 <br>
