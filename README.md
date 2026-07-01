@@ -1,4 +1,5 @@
 <h1>Senior Blockchain & Distributed Systems Engineer</h1>
+<p align="center"><a href="https://tattwamasii2p.github.io/" target="_blank">🚨 Production incident? I fix crypto & backend systems → contact</a></p>
 
 I build, debug, and stabilize complex distributed systems, crypto infrastructure,
 privacy-oriented networking, and high-load backend platforms.
