@@ -3,6 +3,8 @@
 I build, debug, and stabilize complex distributed systems, crypto infrastructure,
 privacy-oriented networking, and high-load backend platforms.
 
+Building systems across crypto, privacy networks, distributed backends, and production infrastructure.
+
 My engineering focus:
 
 <ul>
@@ -46,11 +48,11 @@ Engineering:
 
 
 <dt>
-<strong><a href=https://github.com/tranoo/exchange-public>TranooSwap</a></strong>
+<strong><a href="https://github.com/tranoo/exchange-public">TranooSwap</a></strong>
 </dt>
 
 <dd>
-Author and developer of a proprietary inter-chain crypto swap/exchange application.
+Author and developer of a proprietary multi-chain crypto swap application.
 <br><br>
 Impact:
 <ul>
@@ -62,11 +64,37 @@ Engineering:
 <ul>
 <li>Multi-chain integration</li>
 <li>Web3 infrastructure</li>
-<li>Crypto exchange workflows</li>
+<li>Crypto swap workflows</li>
 <li>Production deployment</li>
 </ul>
 
 (Proprietary system, not open source)
+</dd>
+<dt>
+<strong>
+Crypto Exchange Internals/Infrastructure — BitZlato
+</strong>
+</dt>
+
+<dd>
+Optimized a cryptocurrency exchange matcher pipeline for a production trading system serving a multi-million-user crypto platform.
+<br><br>
+Impact:
+<br>
+<strong>2M+ user scale crypto exchange environment</strong>
+<br><br>
+Engineering:
+<ul>
+<li>Kotlin / Java</li>
+<li>Spring</li>
+<li>PostgreSQL</li>
+<li>Exchange matching engine optimization</li>
+<li>Performance benchmarking</li>
+<li>High-load backend architecture</li>
+<li>UML</li>
+</ul>
+
+Focused on throughput analysis, bottleneck identification, and recommendations for future system evolution.
 </dd>
 <dt>
 <strong>
@@ -141,7 +169,7 @@ Engineering:
 <ul>
 <li>Security review</li>
 <li>Architecture hardening</li>
-<li>Removal of unsafe server dependencies</li>
+<li>Removed unsafe external server dependencies and improved architecture resilience</li>
 </ul>
 </dd>
 
@@ -168,4 +196,17 @@ I specialize in systems where:
 <li>failures are difficult to reproduce;</li>
 <li>root causes are hidden across multiple layers;</li>
 <li>standard debugging approaches fail.</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Open to</h2>
+
+Remote contract opportunities in:
+
+<ul>
+<li>Crypto infrastructure</li>
+<li>Distributed systems</li>
+<li>Backend reliability</li>
+<li>Production debugging</li>
 </ul>
